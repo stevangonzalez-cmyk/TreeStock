@@ -51,11 +51,9 @@ La recursividad se utiliza en las operaciones principales del árbol:
 **Actividad:** EA3 - Árboles  
 **Repositorio:** TreeStock
 
-
-
 ---
 
-## 👥 Integrantes
+## 👥 Integrante
 - Stevan David Gonzalez Guevara
 ---
 
