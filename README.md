@@ -38,6 +38,25 @@ La recursividad se utiliza en las operaciones principales del árbol:
 - **Buscar:** compara el ID solicitado con el nodo actual y continúa por el subárbol correspondiente.
 - **Recorrido inorden:** visita primero el subárbol izquierdo, luego la raíz y finalmente el subárbol derecho, mostrando los productos ordenados de menor a mayor por ID.
 
+
+## 🎥 Video de sustentación
+**Enlace del video:** `Pegar aquí el enlace de YouTube o Google Drive`
+
+---
+
+## 👤 Datos del estudiante
+
+**Nombre completo:** Stevan David Gonzalez Guevara  
+**Asignatura:** Estructura de Datos  
+**Actividad:** EA3 - Árboles  
+**Repositorio:** TreeStock
+
+
+
+---
+
+## 👥 Integrantes
+- Stevan David Gonzalez Guevara
 ---
 
 ## 🗂️ Estructura del proyecto
