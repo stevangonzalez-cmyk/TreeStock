@@ -1,7 +1,8 @@
 # 🌳 Tree-Stock - Sistema de Inventario con Árbol Binario de Búsqueda
 
 ## 📌 Descripción del proyecto
-Tree-Stock es una aplicación de consola desarrollada en Java para gestionar un inventario de productos mediante un **Árbol Binario de Búsqueda (ABB)**. El sistema permite registrar productos, mostrarlos ordenados por ID y buscarlos por su identificador.
+**Tree-Stock** es una aplicación de consola desarrollada en Java para gestionar un inventario de productos mediante un **Árbol Binario de Búsqueda (ABB)**.  
+El sistema permite registrar productos, mostrarlos ordenados por ID y buscarlos por su identificador.
 
 Este proyecto fue realizado como actividad académica de **Estructura de Datos**, aplicando nodos, punteros y recursividad de forma manual, sin utilizar librerías automáticas de colecciones.
 
@@ -38,15 +39,35 @@ La recursividad se utiliza en las operaciones principales del árbol:
 - **Buscar:** compara el ID solicitado con el nodo actual y continúa por el subárbol correspondiente.
 - **Recorrido inorden:** visita primero el subárbol izquierdo, luego la raíz y finalmente el subárbol derecho, mostrando los productos ordenados de menor a mayor por ID.
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+---
 
+## 📷 Capturas de pantalla
 
+### Menú principal
+<p align="center">
+  <img src="image.png" alt="Menú principal" width="700">
+</p>
+
+### Registro de productos
+<p align="center">
+  <img src="image-1.png" alt="Registro de productos" width="700">
+</p>
+
+### Inventario ordenado
+<p align="center">
+  <img src="image-2.png" alt="Inventario ordenado" width="700">
+</p>
+
+### Búsqueda de producto
+<p align="center">
+  <img src="image-3.png" alt="Búsqueda de producto" width="700">
+</p>
+
+---
 
 ## 🎥 Video de sustentación
-**Enlace del video:** `https://drive.google.com/file/d/1OuBeheAoqIdq3oWGkxNbA9-sq2yonoc3/view?usp=sharing`
+**Enlace del video:**  
+https://drive.google.com/file/d/1OuBeheAoqIdq3oWGkxNbA9-sq2yonoc3/view?usp=sharing
 
 ---
 
@@ -55,12 +76,13 @@ La recursividad se utiliza en las operaciones principales del árbol:
 **Nombre completo:** Stevan David Gonzalez Guevara  
 **Asignatura:** Estructura de Datos  
 **Actividad:** EA3 - Árboles  
-**Repositorio:** TreeStock
+**Repositorio:** TreeStock  
 
 ---
 
 ## 👥 Integrante
 - Stevan David Gonzalez Guevara
+
 ---
 
 ## 🗂️ Estructura del proyecto
@@ -70,4 +92,8 @@ TreeStock/
 ├── Producto.java
 ├── ArbolInventario.java
 ├── Main.java
-└── README.md
+├── README.md
+├── image.png
+├── image-1.png
+├── image-2.png
+└── image-3.png
