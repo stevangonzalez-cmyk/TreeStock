@@ -38,9 +38,15 @@ La recursividad se utiliza en las operaciones principales del árbol:
 - **Buscar:** compara el ID solicitado con el nodo actual y continúa por el subárbol correspondiente.
 - **Recorrido inorden:** visita primero el subárbol izquierdo, luego la raíz y finalmente el subárbol derecho, mostrando los productos ordenados de menor a mayor por ID.
 
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+
+
 
 ## 🎥 Video de sustentación
-**Enlace del video:** `Pegar aquí el enlace de YouTube o Google Drive`
+**Enlace del video:** `https://drive.google.com/file/d/1OuBeheAoqIdq3oWGkxNbA9-sq2yonoc3/view?usp=sharing`
 
 ---
 
